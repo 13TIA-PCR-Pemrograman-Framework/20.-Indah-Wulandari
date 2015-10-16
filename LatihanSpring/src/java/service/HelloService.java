@@ -21,10 +21,6 @@ public class HelloService {
             "<tr><td>"+
         " <p>  "+"Your Email </td><td>:</td>"+"<td>"+email+"</td></tr>"+      
             "<tr><td>"+
-        " <p>  "+"Your Password </td><td>:</td>"+"<td>"+password+"</td></tr>"+
-                "<tr><td>"+
-        " <p>  "+"Your Confirm Password </td><td>:</td>"+"<td>"+password2+"</td></tr>"+
-        "<tr><td>"+
         " <p>  "+"Birthday </td><td>:</td>"+"<td>"+birthday+"</td></tr>"+
                  "<tr><td>"+
         " <p>  "+"Gender </td><td>:</td>"+"<td>"+gender+"</td></tr>"+
